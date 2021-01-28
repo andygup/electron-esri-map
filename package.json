@@ -2,7 +2,7 @@
   "name": "electron-esm-wp",
   "version": "1.0.0",
   "description": "JS API ESM test",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "start": "electron .",
     "startwp": "webpack serve --mode development",
